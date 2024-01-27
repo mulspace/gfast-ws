@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = git@github.com:mulspace/gfast-ui.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:mulspace/gfast-backend.git
